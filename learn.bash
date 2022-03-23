@@ -1,6 +1,6 @@
 #!/bin/bash
 
-Name="Fadli"
+Name="Bromineq"
 Job="Pelajar"
 
 echo "Sekolah AT"
