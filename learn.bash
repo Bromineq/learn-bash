@@ -1,8 +1,9 @@
 #!/bin/bash
 
-Name="Bromineq"
-Job="Pelajar"
-
-echo "Sekolah AT"
-echo "Perkenalkan, saya $Name"
-echo "Saya seorang $Job"
+read -p "Masukkan nama: " nama4
+if [ "$nama4" = "Fadli" ]
+    then
+        echo "selamat, anda beruntung!"
+    else
+        echo "jangan menyerah, tetap semangat!"
+fi
